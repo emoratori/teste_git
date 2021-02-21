@@ -1,0 +1,8 @@
+Livro online: https://git-scm.com/book/pt-br/v2
+
+COMANDOS GIT:
+git config --list					-> lista todas as configurações
+git help commit						-> manual do comando
+git ini								-> Cria o arquivo .git no diretório corrente
+git clone http:\\github.com\...		-> Clona o repositório para o seu .git
+
